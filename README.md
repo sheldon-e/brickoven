@@ -1,2 +1,3 @@
 # brickoven
-Brickoven is a framework for easily building enterprise grade apps. 
+Brickoven is a stack for building applications. It's similar to an enterprise framework in terms of security.
+
